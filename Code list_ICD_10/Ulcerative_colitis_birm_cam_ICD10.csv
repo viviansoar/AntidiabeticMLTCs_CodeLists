@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"K51","Ulcerative colitis","K51",NA,"ICD10"
+"K510","Ulcerative (chronic) pancolitis","K51.0",NA,"ICD10"
+"K512","Ulcerative (chronic) proctitis","K51.2",NA,"ICD10"
+"K513","Ulcerative (chronic) rectosigmoiditis","K51.3",NA,"ICD10"
+"K518","Other ulcerative colitis","K51.8",NA,"ICD10"

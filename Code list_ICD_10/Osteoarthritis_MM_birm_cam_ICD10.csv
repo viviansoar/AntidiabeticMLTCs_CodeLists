@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"M47","Spondylosis","M47",NA,"ICD10"
+"G552","Nerve root and plexus compressions in spondylosis","G55.2",NA,"ICD10"
+"M15","Polyarthrosis","M15",NA,"ICD10"
+"M150","Primary generalized (osteo)arthrosis","M15.0",NA,"ICD10"
+"M153","Secondary multiple arthrosis","M15.3",NA,"ICD10"
+"M154","Erosive (osteo)arthrosis","M15.4",NA,"ICD10"
+"M158","Other polyarthrosis","M15.8",NA,"ICD10"

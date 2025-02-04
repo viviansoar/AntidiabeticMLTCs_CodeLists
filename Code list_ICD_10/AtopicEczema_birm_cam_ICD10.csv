@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"L20","Atopic dermatitis","L20",NA,"ICD10"
+"L200","Besnier prurigo","L20.0",NA,"ICD10"
+"L208","Other atopic dermatitis","L20.8",NA,"ICD10"

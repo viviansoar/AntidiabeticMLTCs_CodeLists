@@ -1,0 +1,3 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"G463","Brain stem stroke syndrome","G46.3",NA,"ICD10"
+"G464","Cerebellar stroke syndrome","G46.4",NA,"ICD10"

@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"I21","Acute myocardial infarction","I21",NA,"ICD10"
+"I210","Acute transmural myocardial infarction of anterior wall","I21.0",NA,"ICD10"
+"I211","Acute transmural myocardial infarction of inferior wall","I21.1",NA,"ICD10"
+"I212","Acute transmural myocardial infarction of other sites","I21.2",NA,"ICD10"
+"I213","Acute transmural myocardial infarction of unspecified site","I21.3",NA,"ICD10"
+"I214","Acute subendocardial myocardial infarction","I21.4",NA,"ICD10"

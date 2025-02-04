@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"G45","Transient cerebral ischaemic attacks and related syndromes","G45",NA,"ICD10"
+"G453","Amaurosis fugax","G45.3",NA,"ICD10"
+"G454","Transient global amnesia","G45.4",NA,"ICD10"
+"G458","Other transient cerebral ischaemic attacks and related syndromes","G45.8",NA,"ICD10"

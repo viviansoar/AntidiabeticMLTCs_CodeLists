@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"N393","Stress incontinence","N39.3",NA,"ICD10"
+"N394","Other specified urinary incontinence","N39.4",NA,"ICD10"
+"R32X","Unspecified urinary incontinence","R32",NA,"ICD10"

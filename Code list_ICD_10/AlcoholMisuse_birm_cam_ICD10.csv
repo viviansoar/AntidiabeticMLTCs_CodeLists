@@ -1,0 +1,28 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+F04,Organic syndrome. not induced by alcohol and other psychoactive substances.,F04,,ICD10
+F05,Delirium induced by alcohol and other psychoactive substances,F05,,ICD10  
+F10,Mental behavioural disorders due to use of alcohol,F10,,ICD10  
+F100,Mental behavioural disorders due to use of alcohol,F10.0,,ICD10  
+F101,Mental behavioural disorders due to use of alcohol,F10.1,,ICD10  
+F102,Mental behavioural disorders due to use of alcohol,F10.2,,ICD10  
+F103,Mental behavioural disorders due to use of alcohol,F10.3,,ICD10  
+F104,Mental behavioural disorders due to use of alcohol,F10.4,,ICD10  
+F105,Mental behavioural disorders due to use of alcohol,F10.5,,ICD10  
+F106,Mental behavioural disorders due to use of alcohol,F10.6,,ICD10  
+F107,Mental behavioural disorders due to use of alcohol,F10.7,,ICD10  
+F108,Mental behavioural disorders due to use of alcohol,F10.8,,ICD10  
+F109,Mental behavioural disorders due to use of alcohol,F10.9,,ICD10
+G312,Degeneration nervous system due to alcohol,G31.2,,ICD10  
+G621,Alcoholic         ,G62.1,,ICD10  
+G721,Alcoholic         ,G72.1,,ICD10  
+I426,Alcoholic         ,I42.6,,ICD10  
+K292,Alcoholic         ,K29.2,,ICD10  
+K70,Alcoholic disease,K70,,ICD10  
+K700,Alcoholic liver,K70.0,,ICD10
+K701,Alcoholic         ,K70.1,,ICD10  
+K702,Alcoholic and sclerosis of liver,K70.2,,ICD10  
+K703,Alcoholic of liver,K70.3,,ICD10  
+K704,Alcoholic failure,K70.4,,ICD10  
+K709,"Alcoholic disease,  unspecified",K70.9,,ICD10  
+K852,Alcohol-induced pancreatitis,K85.2,,ICD10  
+K860,Alcohol-induced pancreatitis,K86.0,,ICD10        

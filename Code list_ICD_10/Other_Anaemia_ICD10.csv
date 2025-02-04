@@ -1,0 +1,25 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60,,ICD10
+D60.0,Chronic acquired pure red cell aplasia,D60.0,,ICD10
+D60.1,Transient acquired pure red cell aplasia,D60.1,,ICD10
+D60.8,Other acquired pure red cell aplasias,D60.8,,ICD10
+D60.9,"Acquired pure red cell aplasia, unspecified",D60.9,,ICD10
+D61,Other aplastic anaemias,D61,,ICD10
+D61.0,Constitutional aplastic anaemia,D61.0,,ICD10
+D61.1,Drug-induced aplastic anaemia,D61.1,,ICD10
+D61.2,Aplastic anaemia due to other external agents,D61.2,,ICD10
+D61.3,Idiopathic aplastic anaemia,D61.3,,ICD10
+D61.8,Other specified aplastic anaemias,D61.8,,ICD10
+D61.9,"Aplastic anaemia, unspecified",D61.9,,ICD10
+D62,Acute posthaemorrhagic anaemia,D62,,ICD10
+D63,Anaemia in chronic diseases classified elsewhere,D63,,ICD10
+D63.0,Anaemia in neoplastic disease,D63.0,,ICD10
+D63.8,Anaemia in other chronic diseases classified elsewhere,D63.8,,ICD10
+D64,Other anaemias,D64,,ICD10
+D64.0,Hereditary sideroblastic anaemia,D64.0,,ICD10
+D64.1,Secondary sideroblastic anaemia due to disease,D64.1,,ICD10
+D64.2,Secondary sideroblastic anaemia due to drugs and toxins,D64.2,,ICD10
+D64.3,Other sideroblastic anaemias,D64.3,,ICD10
+D64.4,Congenital dyserythropoietic anaemia,D64.4,,ICD10
+D64.8,Other specified anaemias,D64.8,,ICD10
+D64.9,"Anaemia, unspecified",D64.9,,ICD10

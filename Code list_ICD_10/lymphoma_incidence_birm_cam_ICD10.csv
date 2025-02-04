@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"C81","Hodgkin lymphoma","C81",NA,"ICD10"
+"B211","HIV disease resulting in Burkitt lymphoma","B21.1",NA,"ICD10"
+"B212","HIV disease resulting in other types of non-Hodgkin lymphoma","B21.2",NA,"ICD10"

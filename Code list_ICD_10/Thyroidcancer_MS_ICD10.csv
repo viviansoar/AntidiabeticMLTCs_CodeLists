@@ -1,0 +1,4 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+C73X,Malignant neoplasm of thyroid gland,C73,,ICD10
+D093,Carcinoma in situ: Thyroid and other endocrine glands,D09.3,,ICD10
+D440,Neoplasm of uncertain or unknown behaviour: Thyroid gland,D44.0,,ICD10

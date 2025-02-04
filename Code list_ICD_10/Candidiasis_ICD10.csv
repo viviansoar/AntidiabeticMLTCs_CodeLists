@@ -1,0 +1,14 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+B204,HIV disease resulting in candidiasis,B20.4,,ICD10
+B37,Candidiasis,B37,,ICD10
+B370,Candidal stomatitis,B37.0,,ICD10
+B371,Pulmonary candidiasis,B37.1,,ICD10
+B372,Candidiasis of skin and nail,B37.2,,ICD10
+B373,Candidiasis of vulva and vagina,B37.3,,ICD10
+B374,Candidiasis of other urogenital sites,B37.4,,ICD10
+B375,Candidal meningitis,B37.5,,ICD10
+B376,Candidal endocarditis,B37.6,,ICD10
+B377,Candidal sepsis,B37.7,,ICD10
+B378,Candidiasis of other sites,B37.8,,ICD10
+B379,Candidiasis  unspecified,B37.9,,ICD10
+P375,Neonatal candidiasis,P37.5,,ICD10

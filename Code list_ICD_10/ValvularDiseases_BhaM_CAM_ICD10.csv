@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"G110","Congenital nonprogressive ataxia","G11.0",NA,"ICD10"
+"G111","Early-onset cerebellar ataxia","G11.1",NA,"ICD10"
+"G112","Late-onset cerebellar ataxia","G11.2",NA,"ICD10"
+"G113","Cerebellar ataxia with defective DNA repair","G11.3",NA,"ICD10"
+"G114","Hereditary spastic paraplegia","G11.4",NA,"ICD10"
+"G118","Other hereditary ataxias","G11.8",NA,"ICD10"

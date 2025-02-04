@@ -1,0 +1,15 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+N20,Calculus of kidney and ureter,N20,,ICD10
+N20.0,Calculus of kidney,N20.0,,ICD10
+N20.1,Calculus of ureter,N20.1,,ICD10
+N20.2,Calculus of kidney with calculus of ureter,N20.2,,ICD10
+N20.9,"Urinary calculus, unspecified",N20.9,,ICD10
+N21,Calculus of lower urinary tract,N21,,ICD10
+N21.0,Calculus in bladder,N21.0,,ICD10
+N21.1,Calculus in urethra,N21.1,,ICD10
+N21.8,Other lower urinary tract calculus,N21.8,,ICD10
+N21.9,"Calculus of lower urinary tract, unspecified",N21.9,,ICD10
+N22,Calculus of urinary tract in diseases classified elsewhere,N22,,ICD10
+N22.0,Urinary calculus in schistosomiasis [bilharziasis] ,N22.0,,ICD10
+N22.8,Calculus of urinary tract in other diseases classified elsewhere,N22.8,,ICD10
+N23,Unspecified renal colic,N23,,ICD10

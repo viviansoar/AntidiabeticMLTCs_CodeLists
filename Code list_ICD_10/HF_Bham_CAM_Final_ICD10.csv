@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"I11","Hypertensive heart disease","I11",NA,"ICD10"
+"I110","Hypertensive heart disease with (congestive) heart failure","I11.0",NA,"ICD10"
+"I119","Hypertensive heart disease without (congestive) heart failure","I11.9",NA,"ICD10"
+"I13","Hypertensive heart and renal disease","I13",NA,"ICD10"
+"I130","Hypertensive heart and renal disease with (congestive) heart failure","I13.0",NA,"ICD10"
+"I131","Hypertensive heart and renal disease with renal failure","I13.1",NA,"ICD10"
+"I132","Hypertensive heart and renal disease with both (congestive) heart failure and renal failure","I13.2",NA,"ICD10"

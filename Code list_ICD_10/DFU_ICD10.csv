@@ -1,0 +1,10 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+Y835,Amputation of limb(s),Y83.5,,ICD10
+S98,Traumatic amputation of ankle and foot,S98,,ICD10
+S980,Traumatic amputation of foot at ankle level,S98.0,,ICD10
+S984,"Traumatic amputation of foot,  level unspecified",S98.4,,ICD10
+T136,"Traumatic amputation of lower limb,  level unspecified",T13.6,,ICD10
+T873,Neuroma of amputation stump,T87.3,,ICD10
+T874,Infection of amputation stump,T87.4,,ICD10
+T875,Necrosis of amputation stump,T87.5,,ICD10
+T936,Sequelae of crushing injury and traumatic amputation of lower limb,T93.6,,ICD10

@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"I20","Angina pectoris","I20",NA,"ICD10"
+"I200","Unstable angina","I20.0",NA,"ICD10"
+"I201","Angina pectoris with documented spasm","I20.1",NA,"ICD10"
+"I208","Other forms of angina pectoris","I20.8",NA,"ICD10"

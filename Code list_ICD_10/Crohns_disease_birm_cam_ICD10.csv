@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"K50","Crohn disease [regional enteritis]","K50",NA,"ICD10"
+"K500","Crohn disease of small intestine","K50.0",NA,"ICD10"
+"K501","Crohn disease of large intestine","K50.1",NA,"ICD10"
+"K508","Other Crohn disease","K50.8",NA,"ICD10"

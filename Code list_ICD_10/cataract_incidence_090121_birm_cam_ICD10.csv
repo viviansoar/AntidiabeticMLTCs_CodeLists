@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"H25","Senile cataract","H25",NA,"ICD10"
+"H250","Senile incipient cataract","H25.0",NA,"ICD10"
+"H251","Senile nuclear cataract","H25.1",NA,"ICD10"

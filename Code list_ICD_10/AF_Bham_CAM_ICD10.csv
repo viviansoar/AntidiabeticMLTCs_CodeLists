@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"I48","Atrial fibrillation and flutter","I48",NA,"ICD10"
+"I480","Paroxysmal atrial fibrillation","I48.0",NA,"ICD10"
+"I481","Persistent atrial fibrillation","I48.1",NA,"ICD10"
+"I482","Chronic atrial fibrillation","I48.2",NA,"ICD10"

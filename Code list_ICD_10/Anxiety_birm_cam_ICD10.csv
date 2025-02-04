@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"F064","Organic anxiety disorder","F06.4",NA,"ICD10"
+"F40","Phobic anxiety disorders","F40",NA,"ICD10"
+"F400","Agoraphobia","F40.0",NA,"ICD10"
+"F401","Social phobias","F40.1",NA,"ICD10"
+"F402","Specific (isolated) phobias","F40.2",NA,"ICD10"
+"F408","Other phobic anxiety disorders","F40.8",NA,"ICD10"

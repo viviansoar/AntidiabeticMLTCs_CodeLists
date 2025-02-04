@@ -1,0 +1,4 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+E11.4,Type 2 diabetes mellitus with neurological complications,E11.4,NA,ICD10
+E13.4,Other specified diabetes mellitus with neurological complications,E13.4,NA,ICD10
+E14.4,Unspecified diabetes mellitus with neurological complications,E14.4,NA,ICD10

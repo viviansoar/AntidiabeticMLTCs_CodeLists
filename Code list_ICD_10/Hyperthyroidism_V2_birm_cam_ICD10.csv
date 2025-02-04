@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"E05","Thyrotoxicosis [hyperthyroidism]","E05",NA,"ICD10"
+"E050","Thyrotoxicosis with diffuse goitre","E05.0",NA,"ICD10"
+"E051","Thyrotoxicosis with toxic single thyroid nodule","E05.1",NA,"ICD10"
+"E052","Thyrotoxicosis with toxic multinodular goitre","E05.2",NA,"ICD10"
+"E053","Thyrotoxicosis from ectopic thyroid tissue","E05.3",NA,"ICD10"
